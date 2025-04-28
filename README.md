@@ -59,6 +59,6 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## ScreenRecord
+## ScreenRecord Program
 https://github.com/user-attachments/assets/e736a5a9-8cc9-42af-ad05-3bac260b980b
 

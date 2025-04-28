@@ -3,8 +3,8 @@
 Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**, **Retrofit**, **Glide**, dan **RecyclerView**.
 
 **Anggota Kelompok**
-- Muhammad Alfi Fariz
-- Faiz Bayu Erlangga
+- Muhammad Alfi Fariz (2311174)
+- Faiz Bayu Erlangga (2311231)
 
 ---
 

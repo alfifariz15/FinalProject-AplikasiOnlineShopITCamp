@@ -2,6 +2,10 @@
 
 Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**, **Retrofit**, **Glide**, dan **RecyclerView**.
 
+**Anggota Kelompok**
+- Muhammad Alfi Fariz
+- Faiz Bayu Erlangga
+
 ---
 
 ## ✨ Fitur Aplikasi
@@ -55,4 +59,6 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## 📷 Screenshot
+## 📷 ScreenRecord
+https://github.com/user-attachments/assets/e736a5a9-8cc9-42af-ad05-3bac260b980b
+

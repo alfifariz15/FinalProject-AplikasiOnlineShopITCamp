@@ -1,4 +1,4 @@
-# 🛒 Final Project - Aplikasi Online Shop ITCamp
+# Final Project - Aplikasi Online Shop ITCamp
 
 Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**, **Retrofit**, **Glide**, dan **RecyclerView**.
 
@@ -8,7 +8,7 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## ✨ Fitur Aplikasi
+## Fitur Aplikasi
 
 - **Menampilkan Daftar Produk**  
   Menampilkan produk dari API [FakeStoreAPI](https://fakestoreapi.com/) dalam bentuk grid 2 kolom.
@@ -30,7 +30,7 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - Kotlin
 - Android View Binding
@@ -42,7 +42,7 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 1. **Clone Repository**
     ```bash
@@ -59,6 +59,6 @@ Aplikasi Android sederhana untuk **Toko Online**, dibuat menggunakan **Kotlin**,
 
 ---
 
-## 📷 ScreenRecord
+## ScreenRecord
 https://github.com/user-attachments/assets/e736a5a9-8cc9-42af-ad05-3bac260b980b
 

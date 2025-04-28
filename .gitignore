@@ -1,15 +1,25 @@
-*.iml
-.gradle
+# Ignore Android build files
+/build/
+/.idea/
+/.gradle/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# Ignore MacOS junk
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore APK/outputs
+outputs/
+captures/
+
+# Ignore IntelliJ
+*.iml
+
+# Others
+*.apk
